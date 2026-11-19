@@ -1,0 +1,26 @@
+---
+title: "Did the 2025 Federal Workforce Cuts Reduce Local Private 
+Employment?"
+subtitle: "Fall 2026 - Programming for Business Analytics (Graduate)"
+author: "Group 5: Nguyen Duc Manh, Ho Quynh Anh"
+date: today
+format:
+  pdf:
+    documentclass: scrartcl
+    pdf-engine: xelatex
+    papersize: a4
+    fontsize: 11pt
+    mainfont: "Libertinus Serif"
+    sansfont: "Libertinus Sans"
+    monofont: "Latin Modern Mono"
+    geometry:
+      - margin=25mm
+    linestretch: 1.2
+    number-sections: true
+    colorlinks: true
+    keep-tex: true
+execute:
+  echo: false
+  warning: false
+  message: false
+---
